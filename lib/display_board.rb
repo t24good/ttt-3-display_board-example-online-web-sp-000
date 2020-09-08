@@ -7,4 +7,3 @@ puts "  |  |  "
 puts "--------"
 puts "  |  |  "
 end
-
